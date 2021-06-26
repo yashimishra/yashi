@@ -1,0 +1,84 @@
+body{
+margin: 0;
+}
+
+.top-container {
+  font-size: 1.3rem;
+  font-family: 'Handlee', cursive;
+  padding: 1% 5% 1% 5%;
+  color: #161D6F;
+  background-color: #F4F9F9;
+}
+
+.Personal-information{
+  position: absolute;
+  background-color: #F4F9F9;
+  height: 473%;
+ width: 20%;
+  left: 76%;
+  padding: 3% 3% 1% 1%;
+}
+
+.Schooling{
+padding: 5% 5% 5% 5%;
+}
+
+.Educational-Qualification{
+padding: 3% 5% 5% 5%;
+}
+
+.Educational-Qualification-BDS{
+padding: 5% 5% 5% 5%;
+}
+
+.Conferences-attended{
+padding: 5% 5% 5% 5%;
+}
+
+.Awards-received{
+padding: 5% 5% 5% 5%;
+}
+
+.Areas-of-interest{
+padding: 5% 5% 5% 5%;
+}
+
+.Appeared-for-NEET-MDS{
+padding: 5% 5% 5% 5%;
+}
+
+.table-1{
+  border-spacing: 30px;
+}
+
+.table-2{
+  border-spacing: 30px;
+}
+
+.table-3{
+  border-spacing: 30px;
+}
+
+p{
+  margin: 30px;
+  font-family: 'Abel', sans-serif;
+}
+
+li{
+  margin: 30px;
+}
+
+hr{
+  border:none;
+  position: absolute;
+border-top:10px dotted;
+height:10px;
+width:5%;
+right: 60%;
+color: #CCF2F4;
+margin: 1px 10px;
+}
+
+h2{
+  font-family: 'Mukta', sans-serif;
+}
