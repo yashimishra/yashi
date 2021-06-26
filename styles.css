@@ -13,9 +13,9 @@ margin: 0;
 .Personal-information{
   position: absolute;
   background-color: #F4F9F9;
-  height: 519%;
- width: 20%;
-  left: 76%;
+  height: 112%;
+ width: 25%;
+  left: 71%;
   padding: 3% 3% 1% 1%;
 }
 
@@ -82,7 +82,63 @@ li{
   margin: 30px;
 }
 
-hr{
+h2{
+  font-family: 'Mukta', sans-serif;
+}
+
+.qr-code{
+  position: absolute;
+  top:70%;
+  left: 30%;
+  width: 150px;
+  height:180px;
+}
+
+.hr-1{
+  border:none;
+  position: absolute;
+border-top:10px dotted;
+height:10px;
+width:5%;
+left: 50%;
+color: #CCF2F4;
+margin: 1px 10px;
+}
+
+.hr-2{
+  border:none;
+  position: absolute;
+border-top:10px dotted;
+height:10px;
+width:5%;
+left: 50%;
+color: #CCF2F4;
+margin: 1px 10px;
+}
+
+.hr-3{
+  border:none;
+  position: absolute;
+border-top:10px dotted;
+height:10px;
+width:5%;
+left: 50%;
+color: #CCF2F4;
+margin: 1px 10px;
+}
+
+.hr-4{
+  border:none;
+  position: absolute;
+border-top:10px dotted;
+height:10px;
+width:5%;
+left: 50%;
+color: #CCF2F4;
+margin: 1px 10px;
+}
+
+.hr-i{
   border:none;
   position: absolute;
 border-top:10px dotted;
@@ -93,14 +149,13 @@ color: #CCF2F4;
 margin: 1px 10px;
 }
 
-h2{
-  font-family: 'Mukta', sans-serif;
-}
-
-.qr-code{
+.hr-ii{
+  border:none;
   position: absolute;
-  top:90%;
-  left: 30%;
-  width: 150px;
-  height:180px;
+border-top:10px dotted;
+height:10px;
+width:5%;
+right: 60%;
+color: #CCF2F4;
+margin: 1px 10px;
 }
