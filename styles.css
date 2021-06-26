@@ -21,30 +21,44 @@ margin: 0;
 
 .Schooling{
 padding: 5% 5% 5% 5%;
+height: 50%;
+width: 20%;
 }
 
 .Educational-Qualification{
 padding: 3% 5% 5% 5%;
+height: 30%;
+width: 50%;
 }
 
 .Educational-Qualification-BDS{
 padding: 5% 5% 5% 5%;
+height: 29%;
+width: 50%;
 }
 
 .Conferences-attended{
 padding: 5% 5% 5% 5%;
+height: 29%;
+width: 60%;
 }
 
 .Awards-received{
 padding: 5% 5% 5% 5%;
+height: 29%;
+width: 50%;
 }
 
 .Areas-of-interest{
 padding: 5% 5% 5% 5%;
+height: 29%;
+width: 20%;
 }
 
 .Appeared-for-NEET-MDS{
 padding: 5% 5% 5% 5%;
+height: 29%;
+width: 20%;
 }
 
 .table-1{
