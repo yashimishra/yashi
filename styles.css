@@ -11,58 +11,51 @@ margin: 0;
 }
 
 .Personal-information{
-  position: absolute;
-  background-color: #F4F9F9;
-  height: 112%;
- width: 25%;
-  left: 71%;
-  padding: 3% 3% 1% 1%;
+  padding: 5% 5% 5% 5%;
+  font-size: 115%;
 }
 
 .Schooling{
 padding: 5% 5% 5% 5%;
-height: 50%;
-width: 20%;
+font-size: 90%
 }
 
 .Educational-Qualification{
 padding: 3% 5% 5% 5%;
-height: 30%;
-width: 50%;
+font-size: 125%
+
 }
 
 .Educational-Qualification-BDS{
 padding: 5% 5% 5% 5%;
-height: 29%;
-width: 50%;
+font-size: 115%
 }
 
 .Conferences-attended{
 padding: 5% 5% 5% 5%;
-height: 29%;
-width: 60%;
+font-size: 115%
 }
 
 .Awards-received{
 padding: 5% 5% 5% 5%;
-height: 29%;
-width: 50%;
+font-size: 115%
 }
 
 .Areas-of-interest{
 padding: 5% 5% 5% 5%;
-height: 29%;
-width: 20%;
+font-size: 115%
 }
 
 .Appeared-for-NEET-MDS{
 padding: 5% 5% 5% 5%;
-height: 29%;
-width: 20%;
+
 }
 
 .table-1{
   border-spacing: 30px;
+  font-size: 130%;
+  padding-left: 30%;
+
 }
 
 .table-2{
@@ -74,88 +67,47 @@ width: 20%;
 }
 
 p{
-  margin: 30px;
+  margin: 1%;
   font-family: 'Abel', sans-serif;
+
 }
 
 li{
-  margin: 30px;
+  margin: 1%;
 }
 
 h2{
   font-family: 'Mukta', sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 190%;
 }
 
 .qr-code{
-  position: absolute;
-  top:70%;
-  left: 30%;
-  width: 150px;
-  height:180px;
+  top:7;
+  right: 50%;
+  width: 100px;
+  height:120px;
 }
 
-.hr-1{
+hr{
   border:none;
-  position: absolute;
 border-top:10px dotted;
 height:10px;
 width:5%;
-left: 50%;
 color: #CCF2F4;
-margin: 1px 10px;
+margin: 1% auto;
 }
 
-.hr-2{
-  border:none;
-  position: absolute;
-border-top:10px dotted;
-height:10px;
-width:5%;
-left: 50%;
-color: #CCF2F4;
-margin: 1px 10px;
+.last-container{
+  background-color: #F4F9F9;
+  padding: 1% 5% 1% 90%;
 }
 
-.hr-3{
-  border:none;
-  position: absolute;
-border-top:10px dotted;
-height:10px;
-width:5%;
-left: 50%;
-color: #CCF2F4;
-margin: 1px 10px;
+h4{
+  display: inline;
 }
 
-.hr-4{
-  border:none;
-  position: absolute;
-border-top:10px dotted;
-height:10px;
-width:5%;
-left: 50%;
-color: #CCF2F4;
-margin: 1px 10px;
-}
-
-.hr-i{
-  border:none;
-  position: absolute;
-border-top:10px dotted;
-height:10px;
-width:5%;
-right: 60%;
-color: #CCF2F4;
-margin: 1px 10px;
-}
-
-.hr-ii{
-  border:none;
-  position: absolute;
-border-top:10px dotted;
-height:10px;
-width:5%;
-right: 60%;
-color: #CCF2F4;
-margin: 1px 10px;
+li{
+  padding: .5%;
 }
