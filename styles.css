@@ -17,12 +17,12 @@ margin: 0;
 
 .Schooling{
 padding: 5% 5% 5% 5%;
-font-size: 90%
+font-size: 125%
 }
 
 .Educational-Qualification{
 padding: 3% 5% 5% 5%;
-font-size: 125%
+font-size: 90%
 
 }
 
@@ -84,8 +84,6 @@ h2{
 }
 
 .qr-code{
-  top:7;
-  right: 50%;
   width: 100px;
   height:120px;
 }
@@ -101,7 +99,7 @@ margin: 1% auto;
 
 .last-container{
   background-color: #F4F9F9;
-  padding: 1% 5% 1% 90%;
+  padding: 1% 5% 1% 80%;
 }
 
 h4{
