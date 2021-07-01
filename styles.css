@@ -1,111 +1,108 @@
 body{
 margin: 0;
+font-family: 'Noto Sans JP', sans-serif;
 }
 
 .top-container {
   font-size: 1.3rem;
   font-family: 'Handlee', cursive;
-  padding: 1% 5% 1% 5%;
+  padding: 3% 6% 3%;
   color: #161D6F;
   background-color: #F4F9F9;
 }
 
-.Personal-information{
-  padding: 5% 5% 5% 5%;
-  font-size: 115%;
-}
-
-.Schooling{
-padding: 5% 5% 5% 5%;
-font-size: 125%
-}
-
-.Educational-Qualification{
-padding: 3% 5% 5% 5%;
-font-size: 90%
-
-}
-
-.Educational-Qualification-BDS{
-padding: 5% 5% 5% 5%;
-font-size: 115%
-}
-
-.Conferences-attended{
-padding: 5% 5% 5% 5%;
-font-size: 115%
-}
-
-.Awards-received{
-padding: 5% 5% 5% 5%;
-font-size: 115%
-}
-
-.Areas-of-interest{
-padding: 5% 5% 5% 5%;
-font-size: 115%
-}
-
-.Appeared-for-NEET-MDS{
-padding: 5% 5% 5% 5%;
-
-}
-
-.table-1{
-  border-spacing: 30px;
-  font-size: 130%;
-  padding-left: 30%;
-
-}
-
-.table-2{
-  border-spacing: 30px;
-}
-
-.table-3{
-  border-spacing: 30px;
-}
-
-p{
-  margin: 1%;
-  font-family: 'Abel', sans-serif;
-
-}
-
-li{
-  margin: 1%;
-}
-
-h2{
-  font-family: 'Mukta', sans-serif;
-  text-align: center;
-  font-weight: bolder;
-  font-size: 190%;
-}
-
-.qr-code{
-  width: 100px;
-  height:120px;
+h4{
+  font-family: 'Merriweather Sans', sans-serif;
+  padding-bottom: 1%;
 }
 
 hr{
   border:none;
 border-top:10px dotted;
+background-color:#fff;
 height:10px;
 width:5%;
-color: #CCF2F4;
-margin: 1% auto;
+margin: 100px auto;
+}
+
+li{
+  margin: 1% auto;
+}
+b{
+  font-weight: 900;
+  color: black;
+}
+
+p{
+  color: #808080	;
+}
+
+.qr-code{
+  height: 150px;
+  width: 120px;
+}
+
+.table-1{
+  border-collapse: separate;
+  border-spacing: 10px;
+  text-align: center;
+}
+
+.table-2{
+  border-collapse: separate;
+  border-spacing: 10px;
+  text-align: center;
+}
+
+.table-3{
+  border-collapse: separate;
+  border-spacing: 20px;
+  text-align: left;
+}
+
+.Personal-information{
+  padding: 5% 6% 0;
+}
+
+.Educational-Qualification{
+  padding: 0 6%;
+  width: 50%;
+}
+
+.row{
+  text-align: center;
+}
+
+.Conferences-attended{
+    padding: 0 6%;
+}
+
+.Appeared-for-NEET-MDS{
+  padding: 0 6%;
+}
+
+.Awards-received{
+  padding: 0 6%;
+}
+
+.Areas-of-interest{
+  padding: 0 6%;
 }
 
 .last-container{
   background-color: #F4F9F9;
-  padding: 1% 5% 1% 80%;
+  padding: 1% 4%;
+  text-align: right;
 }
 
-h4{
-  display: inline;
+.container-fluid{
+  padding: 0 6%;
 }
 
-li{
-  padding: .5%;
+.card{
+  border-color: #161D6F;
+}
+
+.tittle{
+  padding-right: 62%;
 }
